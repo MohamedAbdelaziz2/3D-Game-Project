@@ -105,8 +105,7 @@ void Game::initTextures()
 	
 	//TEXTURE 3
 	this->textures.push_back(new Texture("Images/Joined.png", GL_TEXTURE_2D));
-	//TEXTURE 3
-	this->textures.push_back(new Texture("Images/Milkyway.png", GL_TEXTURE_2D));
+	
 }
 
 void Game::initMaterials()
